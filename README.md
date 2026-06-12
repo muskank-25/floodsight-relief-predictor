@@ -1,4 +1,4 @@
-github.com/yourusername/floodsight-relief-predictor
+
 # 🌊 FloodSight — Predictive Relief Allocation for Coastal Odisha
 
 > AI-powered flood relief forecasting for coastal Odisha. Predicts ORS, rations, medical kits, tarpaulin & water demand 7–30 days ahead using rainfall, river gauge & population data. Helps NGOs pre-position supplies before disaster strikes. MAPE < 15%.
